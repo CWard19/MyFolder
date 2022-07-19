@@ -11,3 +11,5 @@ df = pd.DataFrame({"country":["IE", "UK"], "population": [5.5, 50]})
 
 sns.barplot(x="population", y="country", data=df)
 
+print('hello')
+
